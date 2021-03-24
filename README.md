@@ -7,3 +7,4 @@ A modular approach to Dialogue state tracking that utilises one pre-trained lang
 - Request Slots Module [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osmanio2/modular-bert-dst/blob/main/request_slot_training.ipynb)
 - Span Slots Module [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osmanio2/modular-bert-dst/blob/main/span_slots_training.ipynb)
 - Transfer Slots Module [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osmanio2/modular-bert-dst/blob/main/transfer_slots_training.ipynb)
+- Overall DST Model in Inference Mode [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osmanio2/modular-bert-dst/blob/main/Dialogue_State_Tracker_inference.ipynb)
